@@ -8,7 +8,7 @@ newbie
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [mayank.sd2005@gmail.com](mailto:mayank.sd2005@gmail.com)
-* 🧠  I'm learning C
+* 🧠  I'm learning Rust
 
 ### Skills
 
