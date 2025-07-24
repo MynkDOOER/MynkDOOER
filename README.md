@@ -223,9 +223,3 @@
 <img src="https://komarev.com/ghpvc/?username=MynkDOOER&color=00D9FF&style=for-the-badge&label=Profile+Visitors"/>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🚀;Let's+build+the+future+together!+💻;Happy+Coding!+⚡;Stay+curious%2C+keep+learning!+🌟" alt="Footer"/>
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&animation=twinkling)
