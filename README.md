@@ -35,19 +35,7 @@
 <table>
 <tr>
 <td align="center">
-<a href="https://codeforces.com/profile/vairagiX">
-  <img src="https://img.shields.io/badge/Codeforces-Expert-FF6B6B?style=flat&logo=codeforces&logoColor=white"/>
-</a>
-</td>
-<td align="center">
-<a href="https://atcoder.jp/users/billybat">
-  <img src="https://img.shields.io/badge/AtCoder-Candidate%20Master-4ECDC4?style=flat"/>
-</a>
-</td>
-<td align="center">
-<a href="https://leetcode.com/billybat">
-  <img src="https://img.shields.io/badge/LeetCode-Knight-00D9FF?style=flat&logo=leetcode&logoColor=white"/>
-</a>
+<a href="https://codeforces.com/profile/vairagiX"> <img src="https://img.shields.io/badge/Codeforces-vairagiX-1F8ACB?style=flat&logo=codeforces"/> </a> <a href="https://leetcode.com/billybat"> <img src="https://img.shields.io/badge/LeetCode-billybat-FFA116?style=flat&logo=leetcode"/> </a> <a href="https://linkedin.com/in/mayank-rooted"> <img src="https://img.shields.io/badge/LinkedIn-mayank--rooted-0A66C2?style=flat&logo=linkedin"/> </a> <a href="mailto:mayank.sd2005@gmail.com"> <img src="https://img.shields.io/badge/Email-mayank.sd2005@gmail.com-EA4335?style=flat&logo=gmail"/> </a>
 </td>
 </tr>
 </table>
