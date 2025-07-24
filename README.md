@@ -1,225 +1,79 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Mayank%20Singh%20Kashyap&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Competitive%20Programmer%20•%20Systems%20Developer%20•%20Problem%20Solver&descAlignY=55&descSize=18)
+# Mayank Singh Kashyap
 
-
-
-<br/>
-
-<img src="https://img.shields.io/badge/🎓_2nd_Year-B.Tech_CSE-FF6B6B?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/🏫_BVCOE-New_Delhi-4ECDC4?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/💻_Daily-C++_Coder-00D9FF?style=for-the-badge&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Coding gif" width="400"/>
+### Competitive Programmer • Algorithm Architect • Problem Solver
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 Professional Summary
 
-## 🎯 **About Me**
+- 🎓 2nd Year B.Tech in Computer Science @ BVCOE, New Delhi  
+- 💻 C++ Developer | Algorithm Specialist | Systems Enthusiast  
+- 🏆 Active Competitive Programmer (Codeforces, AtCoder, LeetCode)  
+- 🔍 Passionate about efficient problem-solving and scalable system design  
+
+---
+
+## 🛠 Core Competencies
+
+### Languages & Tools
+<img src="https://skillicons.dev/icons?i=c,cpp,git,github,clion" alt="Tech Stack" />
+
+### Focus Areas
+- Competitive Programming (Expert Level)  
+- Data Structures & Algorithms  
+- STL Optimization  
+- Clean Code Architecture  
+
+---
+
+## 🏆 Competitive Programming
 
 <table>
 <tr>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
-
-### 👨‍💻 **Who Am I?**
-- 🏠 **From:** New Delhi, India  
-- 🎓 **Studying:** B.Tech CSE @ BVCOE  
-- 💡 **Passion:** Competitive Programming  
-- ☕ **Fuel:** Coffee & Algorithms  
-- 🎯 **Goal:** Master System Design  
-
-</td>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
-
-### 🚀 **Currently Working On**
-- 🧠 Improving Problem Solving Skills  
-- 📊 Learning Advanced Data Structures  
-- 🏗️ Building Real-World C++ Projects  
-- 🎯 Increasing Contest Performance  
-- 💻 Mastering CLion IDE Features  
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 **Competitive Programming Journey**
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
-
-### 🌟 **My Coding Platforms**
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="80"><br/>
-<a href="https://codeforces.com/profile/MynkDOOER">
-<img src="https://img.shields.io/badge/Codeforces-vairagiX-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a><br/>
-<sub><b>🔥 Problem Solving Arena</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80"><br/>
-<a href="https://atcoder.jp/users/billybat">
-<img src="https://img.shields.io/badge/AtCoder-billybat-4ECDC4?style=for-the-badge&logoColor=white"/>
-</a><br/>
-<sub><b>🧠 Algorithm Mastery</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"><br/>
-<a href="https://leetcode.com/billybat">
-<img src="https://img.shields.io/badge/LeetCode-billybat-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a><br/>
-<sub><b>⚡ Code Warrior</b></sub>
-</td>
-</tr>
-</table>
-
-### 🎯 **My Coding Stats**
-<img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="100">
-
-- 💻 **Languages:** C & C++  
-- 🔧 **IDE:** CLion (My favorite!)  
-- 🎯 **Focus:** Competitive Programming  
-- 📈 **Goal:** Improve contest ratings  
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ **My Tech Stack**
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
-
-### 💻 **Languages I Know**
-<img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" />
-
-### 🔧 **IDE & Tools I Use**
-<img src="https://skillicons.dev/icons?i=clion,git,github&theme=dark" />
-
-### 📚 **Planning to Learn**
-<img src="https://skillicons.dev/icons?i=python,java,rust&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-
----
-
-<div align="center">
-
-## 🚀 **My Projects**
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🎫 **Ticket Booking System**
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120">
-
-**C++ Based Booking Platform**
-
-🎟️ Seat reservation system  
-💳 Payment processing  
-📊 Booking management  
-🗄️ Data storage & retrieval
-
-<img src="https://img.shields.io/badge/Made%20with-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/IDE-CLion-green?style=for-the-badge"/>
-
-</td>
-<td width="50%" align="center">
-
-### 💬 **Discord Live Chatroom**
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="120">
-
-**Real-time Chat Application**
-
-💬 Live messaging system  
-👥 Multi-user support  
-🔄 Real-time updates  
-🎨 Discord-style interface
-
-<img src="https://img.shields.io/badge/Focus-Real%20Time-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Type-Chat%20App-purple?style=for-the-badge"/>
-
-</td>
-</tr>
-<tr>
-<td width="100%" align="center" colspan="2">
-
-### 🔐 **Parallel File Encryptor & Decryptor**
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120">
-
-**High-Performance Security Tool in C++**
-
-🔒 Advanced encryption algorithms  
-⚡ Parallel processing for speed  
-📁 Multiple file support  
-🛡️ Secure data protection
-
-<img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus"/>
-<img src="https://img.shields.io/badge/Feature-Parallel%20Processing-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Security-orange?style=for-the-badge"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 **Let's Connect & Code Together!**
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="200">
-
-### 🤝 **Find Me On**
-
+<td align="center">
 <a href="https://codeforces.com/profile/vairagiX">
-<img src="https://img.shields.io/badge/Codeforces-vairagiX-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codeforces-Expert-FF6B6B?style=flat&logo=codeforces&logoColor=white"/>
 </a>
+</td>
+<td align="center">
 <a href="https://atcoder.jp/users/billybat">
-<img src="https://img.shields.io/badge/AtCoder-billybat-4ECDC4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AtCoder-Candidate%20Master-4ECDC4?style=flat"/>
 </a>
+</td>
+<td align="center">
 <a href="https://leetcode.com/billybat">
-<img src="https://img.shields.io/badge/LeetCode-billybat-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-Knight-00D9FF?style=flat&logo=leetcode&logoColor=white"/>
 </a>
-
-### 📧 **Get In Touch**
-<img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-### 🎯 **Always Open For**
-- 🤝 Collaboration on exciting projects  
-- 💬 Discussing algorithms & data structures  
-- 🚀 Building something amazing together  
-- ☕ Virtual coffee chats about tech  
+</td>
+</tr>
+</table>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=MynkDOOER&color=00D9FF&style=for-the-badge&label=Profile+Visitors"/>
+## 📚 Current Focus
 
-<br/>
+- Advanced Graph Algorithms  
+- Dynamic Programming Optimization  
+- Concurrent Systems Design  
+- STL Deep Dive (Custom Allocators, Policy-Based DS)  
+
+---
+
+## 📫 Professional Connections
+
+<a href="mailto:mayank.sd2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mayank.sd2005@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/mayank-rooted">
+  <img src="https://img.shields.io/badge/LinkedIn-mayank--rooted-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
+---
+
+<div align="center">
+<sub>⚡ Always open to technical discussions and collaborative projects</sub>
+</div>
