@@ -1,31 +1,231 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dovadarts
-=================================================================================================================================
+<div align="center">
 
-newbie
-------
-
-👨‍💻 Hello! Currently, I'm a BTech student specializing in Computer Science, driven by a deep-rooted passion for software engineering and a keen interest in technological advancements. 🚀 My expertise began with learning the C language, which has laid a strong foundation for my programming skills. This initial step has equipped me with essential problem-solving abilities and a logical mindset necessary for software development. 💡 What makes me unique is my proactive approach to staying current with new tech trends. I believe in continuous learning and adapting to maintain a competitive edge in the dynamic tech industry. 🌱 As I forge ahead in my academic journey, my goal is to leverage my knowledge in practical settings. I am motivated by challenges and the opportunity to work on innovative projects that make a difference. 🤓 Outside my coursework, I make it a point to explore new software solutions, participate in tech forums, and join tech meetups. This helps me stay connected with the broader tech community and enhance my skills. 📢 I’m always open to connecting with like-minded individuals, whether you’re a recruiter, a mentor, or a collaborator. Feel free to reach out or check out what I’m working on.
-
-* 🌍  I'm based in INDIA
-* ✉️  You can contact me at [mayank.sd2005@gmail.com](mailto:mayank.sd2005@gmail.com)
-* 🧠  I'm learning Rust
-
-### Skills
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Mayank%20Singh%20Kashyap&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Competitive%20Programmer%20•%20Systems%20Developer%20•%20Problem%20Solver&descAlignY=55&descSize=18)
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
-</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎓_2nd_Year-B.Tech_CSE-FF6B6B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏫_BVCOE-New_Delhi-4ECDC4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻_Daily-C++_Coder-00D9FF?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Coding gif" width="400"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **About Me**
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+
+### 👨‍💻 **Who Am I?**
+- 🏠 **From:** New Delhi, India  
+- 🎓 **Studying:** B.Tech CSE @ BVCOE  
+- 💡 **Passion:** Competitive Programming  
+- ☕ **Fuel:** Coffee & Algorithms  
+- 🎯 **Goal:** Master System Design  
+
+</td>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
+
+### 🚀 **Currently Working On**
+- 🧠 Improving Problem Solving Skills  
+- 📊 Learning Advanced Data Structures  
+- 🏗️ Building Real-World C++ Projects  
+- 🎯 Increasing Contest Performance  
+- 💻 Mastering CLion IDE Features  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 **Competitive Programming Journey**
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+
+### 🌟 **My Coding Platforms**
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="80"><br/>
+<a href="https://codeforces.com/profile/MynkDOOER">
+<img src="https://img.shields.io/badge/Codeforces-vairagiX-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a><br/>
+<sub><b>🔥 Problem Solving Arena</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80"><br/>
+<a href="https://atcoder.jp/users/billybat">
+<img src="https://img.shields.io/badge/AtCoder-billybat-4ECDC4?style=for-the-badge&logoColor=white"/>
+</a><br/>
+<sub><b>🧠 Algorithm Mastery</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"><br/>
+<a href="https://leetcode.com/billybat">
+<img src="https://img.shields.io/badge/LeetCode-billybat-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a><br/>
+<sub><b>⚡ Code Warrior</b></sub>
+</td>
+</tr>
+</table>
+
+### 🎯 **My Coding Stats**
+<img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="100">
+
+- 💻 **Languages:** C & C++  
+- 🔧 **IDE:** CLion (My favorite!)  
+- 🎯 **Focus:** Competitive Programming  
+- 📈 **Goal:** Improve contest ratings  
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ **My Tech Stack**
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
+
+### 💻 **Languages I Know**
+<img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" />
+
+### 🔧 **IDE & Tools I Use**
+<img src="https://skillicons.dev/icons?i=clion,git,github&theme=dark" />
+
+### 📚 **Planning to Learn**
+<img src="https://skillicons.dev/icons?i=python,java,rust&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
 
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/MynkDOOER" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/kashyap_myk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Mayanksinghkashyap" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<div align="center">
 
-### Support Me
+## 🚀 **My Projects**
 
-<ul style="list-style-type: none; margin: 0;">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/mayank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<table>
+<tr>
+<td width="50%" align="center">
 
-</ul>
+### 🎫 **Ticket Booking System**
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120">
+
+**C++ Based Booking Platform**
+
+🎟️ Seat reservation system  
+💳 Payment processing  
+📊 Booking management  
+🗄️ Data storage & retrieval
+
+<img src="https://img.shields.io/badge/Made%20with-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/IDE-CLion-green?style=for-the-badge"/>
+
+</td>
+<td width="50%" align="center">
+
+### 💬 **Discord Live Chatroom**
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="120">
+
+**Real-time Chat Application**
+
+💬 Live messaging system  
+👥 Multi-user support  
+🔄 Real-time updates  
+🎨 Discord-style interface
+
+<img src="https://img.shields.io/badge/Focus-Real%20Time-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Type-Chat%20App-purple?style=for-the-badge"/>
+
+</td>
+</tr>
+<tr>
+<td width="100%" align="center" colspan="2">
+
+### 🔐 **Parallel File Encryptor & Decryptor**
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120">
+
+**High-Performance Security Tool in C++**
+
+🔒 Advanced encryption algorithms  
+⚡ Parallel processing for speed  
+📁 Multiple file support  
+🛡️ Secure data protection
+
+<img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Feature-Parallel%20Processing-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Security-orange?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 **Let's Connect & Code Together!**
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="200">
+
+### 🤝 **Find Me On**
+
+<a href="https://codeforces.com/profile/vairagiX">
+<img src="https://img.shields.io/badge/Codeforces-vairagiX-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+<a href="https://atcoder.jp/users/billybat">
+<img src="https://img.shields.io/badge/AtCoder-billybat-4ECDC4?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/billybat">
+<img src="https://img.shields.io/badge/LeetCode-billybat-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+### 📧 **Get In Touch**
+<img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+### 🎯 **Always Open For**
+- 🤝 Collaboration on exciting projects  
+- 💬 Discussing algorithms & data structures  
+- 🚀 Building something amazing together  
+- ☕ Virtual coffee chats about tech  
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=MynkDOOER&color=00D9FF&style=for-the-badge&label=Profile+Visitors"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🚀;Let's+build+the+future+together!+💻;Happy+Coding!+⚡;Stay+curious%2C+keep+learning!+🌟" alt="Footer"/>
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&animation=twinkling)
