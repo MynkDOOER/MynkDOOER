@@ -10,9 +10,8 @@
 
 ## 👨‍💻 Professional Summary
 
-- 🎓 2nd Year B.Tech in Computer Science @ BVCOE, New Delhi  
-- 💻 C++ Developer | Algorithm Specialist | Systems Enthusiast  
-- 🏆 Active Competitive Programmer (Codeforces, AtCoder, LeetCode)  
+- 🎓 2nd Year B.Tech in Computer Science, New Delhi   
+- 🏆 Active Competitive Programmer  
 - 🔍 Passionate about efficient problem-solving and scalable system design  
 
 ---
