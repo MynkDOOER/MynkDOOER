@@ -22,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,git,github,clion" alt="Tech Stack" />
 
 ### Focus Areas
-- Competitive Programming (Expert Level)  
+- Competitive Programming
 - Data Structures & Algorithms  
 - STL Optimization  
 - Clean Code Architecture  
@@ -38,15 +38,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 📚 Current Focus
-
-- Advanced Graph Algorithms  
-- Dynamic Programming Optimization  
-- Concurrent Systems Design  
-- STL Deep Dive (Custom Allocators, Policy-Based DS)  
 
 ---
 
