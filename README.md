@@ -2,8 +2,6 @@
 
 # Mayank Singh Kashyap
 
-### Competitive Programmer • Algorithm Architect • Problem Solver
-
 </div>
 
 ---
@@ -22,10 +20,8 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,git,github,clion" alt="Tech Stack" />
 
 ### Focus Areas
-- Competitive Programming
+- Web Devlopment
 - Data Structures & Algorithms  
-- STL Optimization  
-- Clean Code Architecture  
 
 ---
 
