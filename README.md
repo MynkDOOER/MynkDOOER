@@ -28,5 +28,5 @@
 ---
 
 <div align="center">
-<sub>⚡ Always open to technical discussions and collaborative projects</sub>
+<sub>⚡ Mostly here to see what’s possible</sub>
 </div>
