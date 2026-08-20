@@ -16,7 +16,7 @@
 ## 🛠 Core Competencies
 
 ### Languages & Tools
-<img src="https://skillicons.dev/icons?i=c,cpp,git,github,html,css,tailwind,js,mongodb,expressjs,react,nodejs" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,html,css,tailwind,js,mongodb,expressjs,react,nodejs" alt="Tech Stack" />
 
 ### Focus Areas
 - Web Devlopment
